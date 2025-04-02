@@ -17,4 +17,4 @@ Allow: /
 User-agent: Storebot-Google
 Allow: /
 
-Sitemap: https://buy-fortiprime.vercel.app/sitemap.xml
+Sitemap: https://foliprime.vercel.app/sitemap.xml
