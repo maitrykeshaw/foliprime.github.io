@@ -1,12 +1,12 @@
 {
-  "name":"PWA Tutorial",
-  "short_name":"PWA",
+  "name":"FoliPrime™ (USA Official) | Special Discount Upto 300$ + Free Shipping",
+  "short_name":"FoliPrime™",
   "start_url":"index.html",
   "display":"standalone",
   "background_color":"#5900b3",
   "theme_color":"#FF5733",
   "scope": ".",
-  "description":"This is a PWA tutorial.",
+  "description":"FoliPrime is a nutritional supplement in the form of a serum designed to protect your hair and scalp health.",
   "icons":[
   {
   "src":"icons/favicon-192x192.png",                     
